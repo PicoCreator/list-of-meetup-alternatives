@@ -24,6 +24,14 @@ Most feature complete, one-to-one with meetup.com, as it was part of its origina
 
 More importantly its the only project to recognize the need for federation of events.
 
+### open-event
+[GIT frontend](https://github.com/fossasia/open-event-frontend) - [GIT backend](https://github.com/fossasia/open-event-server) - [LIVE](https://eventyay.com/)
+
+- **groups:** no
+- **event search:** yes
+
+FossAsia (great folks) very own event organization platform, while it lack "groups" and subscription to groups. From an event organizer perspective it is full of additional features, including but not limited to, ticket billing, call for speakers handling.
+
 ### Agorakit
 [GIT](https://github.com/philippejadin/agorakit) - [DEMO](https://app.agorakit.org/groups)
 
@@ -47,14 +55,6 @@ Provides basic discoverability features, for related event. Currently in extreme
 - **event search:** no
 
 While this may seem feature "incomplete" it might be good enough, for a small group (<100) of strongly interelated communities. From then each group has full functionality, to organize events, and subscribe to news / etc.
-
-### open-event
-[GIT frontend](https://github.com/fossasia/open-event-frontend) - [GIT backend](https://github.com/fossasia/open-event-server) - [LIVE](https://eventyay.com/)
-
-- **groups:** no
-- **event search:** yes
-
-Foss asia very own event organization platform, while it lack "groups" and subscription to groups. From an event organizer perspective it is full of additional features, including but not limited to, ticket billing, call for speakers handling.
 
 ---
 
