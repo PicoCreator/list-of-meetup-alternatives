@@ -110,6 +110,13 @@ They focus on events first, with very limited search by tags. And no support for
 
 Well established in the events and ticketing space
 
+### Github
+
+While an un-orthodox alternative, this does tap on to a large existing developer focus community space.
+With all the downsides as mentioned in facebook.
+
+There have been good examples though : https://github.com/KopiJS/kopi.js/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+
+
 ### kommunity.com
 
 Seems like a meetup.com clone that is starting out
