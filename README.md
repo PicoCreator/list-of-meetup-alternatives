@@ -95,4 +95,33 @@ Very initial stages, of freeCodeCamp attempt to build their own platform.
 
 ## Competitors
 
-## Duck Taping / Ideas
+### Facebook
+
+This is already a common alternative for non-tech events. While it enjoys the benefit of sharability on the much larger social network.
+The downside is that it limits searchability of event attendess. I need to know / be in the group, to manually check for events.
+
+That being said - it is facebook, the largest platform there is. So pros, and cons.
+
+### Eventbrite
+
+They focus on events first, with very limited search by tags. And no support for groups, meaning no subscription of groups.
+
+Well established in the events and ticketing space
+
+### kommunity.com
+
+Seems like a meetup.com clone that is starting out
+
+### opensports.net
+
+Sports focused alternative, with membership subscription optons (like gym?) - I do not know, might need more info.
+
+### emamo.com
+
+Looks pretty, and is focus more on a platform for large event / conference organizer, with established consumer. Rather then a platform for consumers.
+
+## Competitors Launching Soon
+
+- https://cete.io/
+- https://eventy.io/
+
