@@ -56,6 +56,11 @@ Provides basic discoverability features, for related event. Currently in extreme
 
 While this may seem feature "incomplete" it might be good enough, for a small group (<100) of strongly interelated communities. From then each group has full functionality, to organize events, and subscribe to news / etc.
 
+### Swachalit
+[GIT](https://github.com/null-open-security-community/swachalit) - [LIVE](https://null.co.in/)
+
+Simliar to on_ruby, where it may work strongly for a small collection of groups. It has extensive feature within a group.
+
 ---
 
 ## "Incomplete" Open Source Solutions (with demo)
