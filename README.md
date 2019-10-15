@@ -5,7 +5,7 @@ Compiling a list of meetup alternatives, and possible replacement technologies. 
 
 ## Backstory
 
-So meetup.com maybe planning to [charge a $2 per RSVP](https://meetup.com/lp/paymentchanges) - this will effectively kill any "free meetup". So as a meetup co-organizer myself, this is me researching for a plan to mitigate this!
+So meetup.com maybe planning to [charge a $2 per RSVP](https://web.archive.org/web/20191014205500/https://www.meetup.com/lp/paymentchanges) - this will effectively kill any "free meetup". So as a meetup co-organizer myself, this is me researching for a plan to mitigate this!
 
 While the developer in me might want to jump to "lets open source" this.
 
