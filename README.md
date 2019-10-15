@@ -7,6 +7,26 @@ Compiling a list of meetup alternatives, and possible replacement technologies. 
 
 So meetup.com maybe planning to [charge a $2 per RSVP](https://meetup.com/lp/paymentchanges) - this will effectively kill any "free meetup". So as a meetup co-organizer myself, this is me researching for a plan to mitigate this!
 
+While the developer in me might want to jump to "lets open source" this.
+
+It is important to recognise that the success of meetup.com, to an event organiser is that it is "a social network" focusing on well - meetups.
+
+Its biggest strength was that attendees of any events, can randomly discover other related events by subscribing to an existing group, or by searching for it. 
+
+There are several expensive event management system with superior features, but without the social network.
+
+Having every organizer hosting their own "meetup server" is probably a worse case scenerio, as it effectively kills off the ability for small organisers (<10 attendees) from getting off the ground.
+
+So in my oppinion having a feature complete meetup.com clone is not a solution.
+
+- It has to be easy for **any** organiser to spin up (not a sysadmin).
+- It has to have discoverability built in to other events, beyond the one being organized.
+- It has to have a subscription feature for attendees of groups to keep track of upcoming events, they subscribed to. (Full raw list is too much)
+
+A possible solution is to have multiple major hubs interconnected. With major organizer forming their own hub. Commonly refered to federation, however this requires a logistical work on hub administrator to interlink / etc.
+
+Unfortunately, the laziest effective solution tends to work here.
+
 ---
 
 ## Open Source Solutions (with demo)
