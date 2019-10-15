@@ -32,6 +32,30 @@ More importantly its the only project to recognize the need for federation of ev
 
 While the groups and event search is rather limited. Several additional functionalities are built in, rss, ical, and file management.
 
+### Mobilizon 
+[GIT](https://framagit.org/framasoft/mobilizon/) - [DEMO](https://test.mobilizon.org/events/f2fd4a0c-64c2-46a4-bc47-b61c087234de)
+
+- **groups:** yes, with basic tag search
+- **event search:** yes, with location, and keywords
+
+Provides basic discoverability features, for related event. Currently in extremely early beta phase.
+
+### on_ruby
+[GIT](https://github.com/phoet/on_ruby) - [LIVE](https://www.onruby.eu/)
+
+- **groups:** yes, no search
+- **event search:** no
+
+While this may seem feature "incomplete" it might be good enough, for a small group (<100) of strongly interelated communities. From then each group has full functionality, to organize events, and subscribe to news / etc.
+
+### open-event
+[GIT frontend](https://github.com/fossasia/open-event-frontend) - [GIT backend](https://github.com/fossasia/open-event-server) - [LIVE](https://eventyay.com/)
+
+- **groups:** no
+- **event search:** yes
+
+Foss asia very own event organization platform, while it lack "groups" and subscription to groups. From an event organizer perspective it is full of additional features, including but not limited to, ticket billing, call for speakers handling.
+
 ---
 
 ## "Incomplete" Open Source Solutions (with demo)
