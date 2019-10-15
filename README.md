@@ -27,6 +27,8 @@ A possible solution is to have multiple major hubs interconnected. With major or
 
 Unfortunately, the laziest effective solution tends to work here.
 
+And as an event organiser, there does not seem to be an alterantive now. While facebook is able to resolve the social network side of the equation, it is hardly a meetup search and management tool.
+
 ---
 
 ## Open Source Solutions (with demo)
