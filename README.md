@@ -115,7 +115,7 @@ Well established in the events and ticketing space
 While an un-orthodox alternative, this does tap on to a large existing developer focus community space.
 With all the downsides as mentioned in facebook.
 
-There have been good examples though : https://github.com/KopiJS/kopi.js/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+
+There have been good examples though, such as [kopi.js](https://github.com/KopiJS/kopi.js/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+)
 
 ### kommunity.com
 
