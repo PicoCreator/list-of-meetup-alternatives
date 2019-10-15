@@ -79,6 +79,8 @@ This focuses more on the management of CFP's (Call for proposal), and have extre
 
 This is narrowly focused on managing the booking / ticket sales of an event page. So its not really a replacement.
 
+---
+
 ## Open Source Solutions (upcoming / lacking info)
 
 ### eventoL
