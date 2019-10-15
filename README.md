@@ -86,6 +86,11 @@ This is narrowly focused on managing the booking / ticket sales of an event page
 
 Very limited information in english, and without a live demo, may need help evaluating and filling in its features.
 
+### Chapter
+[GIT](https://github.com/freeCodeCamp/chapter)
+
+Very initial stages, of freeCodeCamp attempt to build their own platform.
+
 ---
 
 ## Competitors
