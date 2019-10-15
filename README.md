@@ -21,7 +21,8 @@ So meetup.com maybe planning to [charge a $2 per RSVP](https://meetup.com/lp/pay
 - **federation:** basic import from live sites, using a CLI command (on a cron schedule?)
 
 Most feature complete, one-to-one with meetup.com, as it was part of its original design goals.
-Its the only project to recognize the need for federation of events.
+
+More importantly its the only project to recognize the need for federation of events.
 
 ### Agorakit
 [GIT](https://github.com/philippejadin/agorakit) - [DEMO](https://app.agorakit.org/groups)
