@@ -3,31 +3,9 @@ Compiling a list of meetup alternatives, and possible replacement technologies. 
 
 ---
 
-## Backstory
+## Context
 
 So meetup.com maybe planning to [charge a $2 per RSVP](https://web.archive.org/web/20191014205500/https://www.meetup.com/lp/paymentchanges) - this will effectively kill any "free meetup". So as a meetup co-organizer myself, this is me researching for a plan to mitigate this!
-
-While the developer in me might want to jump to "lets open source" this.
-
-It is important to recognise that the success of meetup.com, to an event organiser is that it is "a social network" focusing on well - meetups.
-
-Its biggest strength was that attendees of any events, can randomly discover other related events by subscribing to an existing group, or by searching for it. 
-
-There are several expensive event management system with superior features, but without the social network.
-
-Having every organizer hosting their own "meetup server" is probably a worse case scenerio, as it effectively kills off the ability for small organisers (<10 attendees) from getting off the ground.
-
-So in my oppinion having a feature complete meetup.com clone is not a solution.
-
-- It has to be easy for **any** organiser to spin up (not a sysadmin).
-- It has to have discoverability built in to other events, beyond the one being organized.
-- It has to have a subscription feature for attendees of groups to keep track of upcoming events, they subscribed to. (Full raw list is too much)
-
-A possible solution is to have multiple major hubs interconnected. With major organizer forming their own hub. Commonly refered to federation, however this requires a logistical work on hub administrator to interlink / etc.
-
-Unfortunately, the laziest effective solution tends to work here.
-
-And as an event organiser, there does not seem to be an alterantive now. While facebook is able to resolve the social network side of the equation, it is hardly a meetup search and management tool.
 
 ---
 
@@ -110,6 +88,8 @@ This is narrowly focused on managing the booking / ticket sales of an event page
 
 ## Open Source Solutions (upcoming / lacking info)
 
+> Either in early stages or lack a working english demo to do assessment - may need feedback from others
+
 ### eventoL
 [GIT](https://github.com/EventoL/EventoL)
 
@@ -122,7 +102,9 @@ Very initial stages, of freeCodeCamp attempt to build their own platform.
 
 ---
 
-## Competitors
+## Not Exactly Competitors
+
+> Interesting alternatives that have been used to organize events. Without most of the features provided. But it works! In a hackerish sort of way.
 
 ### Facebook
 
@@ -131,12 +113,6 @@ The downside is that it limits searchability of event attendess. I need to know 
 
 That being said - it is facebook, the largest platform there is. So pros, and cons.
 
-### Eventbrite
-
-They focus on events first, with very limited search by tags. And no support for groups, meaning no subscription of groups.
-
-Well established in the events and ticketing space
-
 ### Github
 
 While an un-orthodox alternative, this does tap on to a large existing developer focus community space.
@@ -144,24 +120,68 @@ With all the downsides as mentioned in facebook.
 
 There have been good examples though, such as [kopi.js](https://github.com/KopiJS/kopi.js/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+)
 
+---
+
+## Competitors
+
+> Out right, full commercial replacement / competitor. 
+
+### Eventbrite
+
+They focus on events first, with very limited search by tags. And no support for groups, meaning no subscription of groups.
+
+Well established in the events and ticketing space
+
 ### kommunity.com
 
 Seems like a meetup.com clone that is starting out
 
-### Meetabit
+### [Meetabit](https://meetabit.com)
 
-[Meetabit](https://meetabit.com) was created by meetup organizers and is aimed at technical meetups. In addition to all the main functionality of Meetup.com, it has the ability to accept talk proposals and sponsorship offers, have speaker profiles, archive of talks and related materials and export data.
+Aimed at technical meetups, and backed by some of their organizers. While it lack in-depth search and discoverability.
+It includes additional features like: accept talk proposals and sponsorship offers, archive of talks and related materials and export data. And is taking an interesting alternative approach to the layout of information (aka not a clone).
 
-### opensports.net
+### [opensports.net](https://opensports.net)
 
 Sports focused alternative, with membership subscription optons (like gym?) - I do not know, might need more info.
 
-### emamo.com
+### [emamo.com](https://emamo.com)
 
 Looks pretty, and is focus more on a platform for large event / conference organizer, with established consumer. Rather then a platform for consumers.
 
+---
+
 ## Competitors Launching Soon
+
+> New, Shiny, unknowns. Have to wait and see.
 
 - https://cete.io/
 - https://eventy.io/
 
+---
+
+## Personal Notes
+
+While the developer in me might want to jump to "lets open source" this.
+
+It is important to recognise that the success of meetup.com, to an event organiser is that it is "a social network" focusing on well - meetups.
+
+Its biggest strength was that attendees of any events, can randomly discover other related events by subscribing to an existing group, or by searching for it. 
+
+There are several expensive event management system with superior features, but without the social network.
+
+Having every organizer hosting their own "meetup server" is probably a worse case scenerio, as it effectively kills off the ability for small organisers (<10 attendees) from getting off the ground. 
+
+Likewsie having all the tech organizer going over to 101 competitors, will impact us due to fragmentation of the community.
+
+So in my oppinion having a feature complete meetup.com clone is not a solution.
+
+- It has to be easy for **any** organiser to spin up (not a sysadmin).
+- It has to have discoverability built in to other events, beyond the one being organized.
+- It has to have a subscription feature for attendees of groups to keep track of upcoming events, they subscribed to. (Full raw list is too much)
+
+A possible solution is to have multiple major hubs interconnected. With major organizer forming their own hub. Commonly refered to federation, however this requires a logistical work on hub administrator to interlink / etc.
+
+Unfortunately, the laziest effective solution tends to work here. And this makes it heavily favour a commercial or community-sponsored owner, who will have the time and energy to focus on making sure it "just works"
+
+And as an event organiser, there does not seem to be an alterantive now. While facebook is able to resolve the social network side of the equation, it is hardly a meetup search and management tool.
