@@ -148,6 +148,10 @@ There have been good examples though, such as [kopi.js](https://github.com/KopiJ
 
 Seems like a meetup.com clone that is starting out
 
+### Meetabit
+
+[Meetabit](https://meetabit.com) was created by meetup organizers and is aimed at technical meetups. In addition to all the main functionality of Meetup.com, it has the ability to accept talk proposals and sponsorship offers, have speaker profiles, archive of talks and related materials and export data.
+
 ### opensports.net
 
 Sports focused alternative, with membership subscription optons (like gym?) - I do not know, might need more info.
