@@ -126,15 +126,15 @@ There have been good examples though, such as [kopi.js](https://github.com/KopiJ
 
 > Out right, full commercial replacement / competitor. 
 
-### Eventbrite
+### [Eventbrite](http://eventbrite.com)
 
 They focus on events first, with very limited search by tags. And no support for groups, meaning no subscription of groups.
 
 Well established in the events and ticketing space
 
-### kommunity.com
+### [kommunity.com](https://kommunity.com)
 
-Seems like a meetup.com clone that is starting out
+Seems like a full meetup.com clone that is starting out. 
 
 ### [Meetabit](https://meetabit.com)
 
