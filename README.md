@@ -185,3 +185,5 @@ A possible solution is to have multiple major hubs interconnected. With major or
 Unfortunately, the laziest effective solution tends to work here. And this makes it heavily favour a commercial or community-sponsored owner, who will have the time and energy to focus on making sure it "just works"
 
 And as an event organiser, there does not seem to be an alterantive now. While facebook is able to resolve the social network side of the equation, it is hardly a meetup search and management tool.
+
+FreeCodeCamp - may have captured the issue in better written words then me : https://www.freecodecamp.org/news/the-wework-meetup-debacle-and-a-new-chapter/ (jumpt to "What options do groups have?")
