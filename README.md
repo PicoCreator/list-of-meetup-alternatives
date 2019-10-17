@@ -155,8 +155,8 @@ Looks pretty, and is focus more on a platform for large event / conference organ
 
 ### [confy.app](https://confy.app/)
 
-Brazilian newcomer focused on fests, confs, meetups and fairs (as themselves are saying). It's already trusted by [React CWB](https://confy.app/organization/T3JnYW5pemF0aW9uOjVkYTc0MTQ4NTZiODBlMDAzNDY0MzNhYQ==/events), a local group from Curitiba focused on React development.  
-The platform is focused on the brazilian market, but has some potential to grow abroad.
+Brazilian newcomer focused on fests, confs, meetups and fairs (as themselves are saying). With several existing meetup groups.
+The platform is focused on the brazilian market (for now), and looks good.
 
 ---
 
