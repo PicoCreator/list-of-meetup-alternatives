@@ -12,7 +12,7 @@ So meetup.com maybe planning to [charge a $2 per RSVP](https://web.archive.org/w
 ## Open Source Solutions (with demo)
 
 > The following are either outright meetup clones, or are "close enough" drop in replacement. 
-> A similar list in markdown table form, [by "coderbyheart", can be found here](https://github.com/coderbyheart/open-source-meetup-alternatives#open-source-alternatives-to-meetup)
+> A similar list in table format [(by "coderbyheart") can be found here](https://github.com/coderbyheart/open-source-meetup-alternatives#open-source-alternatives-to-meetup)
 
 ### Gettogether
 [GIT](https://github.com/GetTogetherComm/GetTogether) - [DEMO](https://gettogether.community/teams/all/)
