@@ -165,6 +165,11 @@ Sports focused alternative, with membership subscription options (like gym?) - I
 
 Looks pretty, and is focus more on a platform for large event / conference organizer, with established consumer. Rather then a platform for consumers.
 
+### [confy.app](https://confy.app/)
+
+Brazilian newcomer focused on fests, confs, meetups and fairs (as themselves are saying). With several existing meetup groups.
+The platform is focused on the brazilian market (for now), and looks good.
+
 ---
 
 ## Competitors Launching Soon
