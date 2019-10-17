@@ -12,7 +12,8 @@ So meetup.com maybe planning to [charge a $2 per RSVP](https://web.archive.org/w
 
 ## Open Source Solutions (with demo)
 
-> The following are either outright meetup clones, or are "close enough" drop in replacement.
+> The following are either outright meetup clones, or are "close enough" drop in replacement. 
+> A similar list in table format [(by "coderbyheart") can be found here](https://github.com/coderbyheart/open-source-meetup-alternatives#open-source-alternatives-to-meetup)
 
 ### Get Together
 
@@ -134,6 +135,20 @@ While an un-orthodox alternative, this does tap on to a large existing developer
 With all the downsides as mentioned in facebook.
 
 There have been good examples though, such as [Kopi.JS](https://github.com/KopiJS/kopi.js/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+)
+
+### Email list + signup form
+
+More old-school way, but could work better with those with limited tech skills and funds.
+
+1.  Collect everyone's email address
+2.  Create an online form-spreasheet via [Google Forms](https://support.google.com/docs/answer/6281888?co=GENIE.Platform%3DDesktop&hl=en), [Airtable](https://airtable.com/), etc
+3.  Email your list with event deails & link to your form.
+  * Remember to use "[Blind Carbon Copy](https://www.technology.pitt.edu/help-desk/how-to-documents/using-blind-carbon-copy-bcc-feature-protect-privacy-email-addresses)" (BCC) for the addresses.
+  * If you have many (eg 50+) people to email, you might consider using [Mailchimp](https://mailchimp.com/) or the like; you could be auto-flagged as a spammer. 
+4.  Check your spreadsheet for responces.
+5.  Send reminder email 1-2 days before event
+
+Protip: consider creating a new email address &/or website/Facebook page for your group.
 
 ---
 
