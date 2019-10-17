@@ -153,6 +153,11 @@ Sports focused alternative, with membership subscription optons (like gym?) - I 
 
 Looks pretty, and is focus more on a platform for large event / conference organizer, with established consumer. Rather then a platform for consumers.
 
+### [confy.app](https://confy.app/)
+
+Brazilian newcomer focused on fests, confs, meetups and fairs (as themselves are saying). It's already trusted by [React CWB](https://confy.app/organization/T3JnYW5pemF0aW9uOjVkYTc0MTQ4NTZiODBlMDAzNDY0MzNhYQ==/events), a local group from Curitiba focused on React development.  
+The platform is focused on the brazilian market, but has some potential to grow abroad.
+
 ---
 
 ## Competitors Launching Soon
