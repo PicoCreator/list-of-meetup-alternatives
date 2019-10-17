@@ -59,16 +59,19 @@ Provides basic discoverability features, for related event. Currently in extreme
 [GIT](https://github.com/phoet/on_ruby) - [LIVE](https://www.onruby.eu/)
 
 - **groups:** yes, no search
-- **event search:** no
+- **event search:** no (sequential list)
 
 While this may seem feature "incomplete" it might be good enough, for a small group (<100) of strongly interrelated communities.
 From then each group has full functionality, to organize events, and subscribe to news / etc.
 
 ### Swachalit
 
+- **groups:** yes, no search
+- **event search:** no (sequential list)
+
 [GIT](https://github.com/null-open-security-community/swachalit) - [LIVE](https://null.co.in/)
 
-Similar to on_ruby, where it may work strongly for a small collection of groups. It has extensive features within a group.
+Simliar to on_ruby, where it may work strongly for a small collection of groups. With extensive feature within a group.
 
 ---
 
