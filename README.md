@@ -15,6 +15,16 @@ So meetup.com maybe planning to [charge a $2 per RSVP](https://web.archive.org/w
 > The following are either outright meetup clones, or are "close enough" drop in replacement. 
 > A similar list in table format [(by "coderbyheart") can be found here](https://github.com/coderbyheart/open-source-meetup-alternatives#open-source-alternatives-to-meetup)
 
+
+### Agorakit
+
+[GIT](https://github.com/philippejadin/agorakit) - [DEMO](https://app.agorakit.org/groups)
+
+- **groups:** yes, with basic tag search
+- **event search:** no (it does have calendars)
+
+While the groups and event search is rather limited. Several additional functionalities are built-in, RSS, iCalendar, and file management.
+
 ### Get Together
 
 [GIT](https://github.com/GetTogetherComm/GetTogether) - [DEMO](https://gettogether.community/teams/all/)
@@ -27,24 +37,14 @@ Most feature complete, one-to-one with meetup.com, as it was part of its origina
 
 More importantly its the only project to recognize the need for federation of events.
 
-### Open Event
+### Keystone Meetup Alternative
 
-[GIT frontend](https://github.com/fossasia/open-event-frontend) - [GIT backend](https://github.com/fossasia/open-event-server) - [LIVE](https://eventyay.com/)
+[GIT](https://github.com/Thinkmill/meetup-alternative) - [DEMO](https://github.com/Thinkmill/meetup-alternative)
 
-- **groups:** no
+- **groups:** no, designed for a single self-hosted meetup. Could be modified for multiple
 - **event search:** yes
 
-FossAsia (great folks) very own event organization platform, while it lack "groups" and subscription to groups.
-From an event organizer perspective it is full of additional features, including but not limited to, ticket billing, call for speakers handling.
-
-### Agorakit
-
-[GIT](https://github.com/philippejadin/agorakit) - [DEMO](https://app.agorakit.org/groups)
-
-- **groups:** yes, with basic tag search
-- **event search:** no (it does have calendars)
-
-While the groups and event search is rather limited. Several additional functionalities are built-in, RSS, iCalendar, and file management.
+A free open-source alternative to Meetup built with JavaScript. Using Next.js and Keystone 5.
 
 ### Mobilizon
 
@@ -65,6 +65,16 @@ Provides basic discoverability features, for related event. Currently in extreme
 While this may seem feature "incomplete" it might be good enough, for a small group (<100) of strongly interrelated communities.
 From then each group has full functionality, to organize events, and subscribe to news / etc.
 
+### Open Event
+
+[GIT frontend](https://github.com/fossasia/open-event-frontend) - [GIT backend](https://github.com/fossasia/open-event-server) - [LIVE](https://eventyay.com/)
+
+- **groups:** no
+- **event search:** yes
+
+FossAsia (great folks) very own event organization platform, while it lack "groups" and subscription to groups.
+From an event organizer perspective it is full of additional features, including but not limited to, ticket billing, call for speakers handling.
+
 ### Swachalit
 
 - **groups:** yes, no search
@@ -80,15 +90,6 @@ Simliar to on_ruby, where it may work strongly for a small collection of groups.
 
 > The following tends to focus on either other challenges, or a narrow subsection of meetup feature set. This may on one hand make it an "incomplete" solution, but on the other hand for a certain use case, be much better suited.
 
-### Gospeak
-
-[GIT](https://github.com/loicknuchel/gospeak) - [DEMO](https://dev-gospeak.herokuapp.com/groups)
-
-- **groups:** yes, with basic listing and search
-- **event search:** no
-
-This focuses more on the management of CFP's (Call for proposal), and have extremely limited functionality around event lookup / RSVP.
-
 ### Attendize
 
 [GIT](https://github.com/Attendize/Attendize) - [DEMO](http://attendize.website/e/799/attendize-test-event-w-special-guest-attendize) - Attribution Assurance License
@@ -98,17 +99,20 @@ This focuses more on the management of CFP's (Call for proposal), and have extre
 
 This is narrowly focused on managing the booking / ticket sales of an event page. So its not really a replacement.
 
+### Gospeak
+
+[GIT](https://github.com/loicknuchel/gospeak) - [DEMO](https://dev-gospeak.herokuapp.com/groups)
+
+- **groups:** yes, with basic listing and search
+- **event search:** no
+
+This focuses more on the management of CFP's (Call for proposal), and have extremely limited functionality around event lookup / RSVP.
+
 ---
 
 ## Open Source Solutions (upcoming / lacking info)
 
 > Either in early stages or lack a working english demo to do assessment - may need feedback from others
-
-### eventoL
-
-[GIT](https://github.com/EventoL/EventoL)
-
-Very limited information in english, and without a live demo, may need help evaluating and filling in its features.
 
 ### Chapter
 
@@ -116,25 +120,18 @@ Very limited information in english, and without a live demo, may need help eval
 
 Very initial stages, of freeCodeCamp attempt to build their own platform.
 
+
+### eventoL
+
+[GIT](https://github.com/EventoL/EventoL)
+
+Very limited information in english, and without a live demo, may need help evaluating and filling in its features.
+
 ---
 
 ## Not Exactly Competitors
 
 > Interesting alternatives that have been used to organize events. Without most of the features provided. But it works! In a hackerish sort of way.
-
-### Facebook
-
-This is already a common alternative for non-tech events. While it enjoys the benefit of shareability on the much larger social network.
-The downside is that it limits searchability of event attendees. I need to know / be in the group, to manually check for events.
-
-That being said - it is facebook, the largest platform there is. So pros, and cons.
-
-### GitHub
-
-While an un-orthodox alternative, this does tap on to a large existing developer focus community space.
-With all the downsides as mentioned in facebook.
-
-There have been good examples though, such as [Kopi.JS](https://github.com/KopiJS/kopi.js/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+)
 
 ### Email list + signup form
 
@@ -150,17 +147,40 @@ More old-school way, but could work better with those with limited tech skills a
 
 Protip: consider creating a new email address &/or website/Facebook page for your group.
 
+### Facebook
+
+This is already a common alternative for non-tech events. While it enjoys the benefit of shareability on the much larger social network.
+The downside is that it limits searchability of event attendees. I need to know / be in the group, to manually check for events.
+
+That being said - it is facebook, the largest platform there is. So pros, and cons.
+
+### GitHub
+
+While an un-orthodox alternative, this does tap on to a large existing developer focus community space.
+With all the downsides as mentioned in facebook.
+
+There have been good examples though, such as [Kopi.JS](https://github.com/KopiJS/kopi.js/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+)
+
 ---
 
 ## Competitors
 
 > Out right, full commercial replacement / competitor.
 
+### [confy.app](https://confy.app/)
+
+Brazilian newcomer focused on fests, confs, meetups and fairs (as themselves are saying). With several existing meetup groups.
+The platform is focused on the brazilian market (for now), and looks good.
+
 ### [Eventbrite](http://eventbrite.com)
 
 They focus on events first, with very limited search by tags. And no support for groups, meaning no subscription of groups.
 
 Well established in the events and ticketing space
+
+### [emamo.com](https://emamo.com)
+
+Looks pretty, and is focus more on a platform for large event / conference organizer, with established consumer. Rather then a platform for consumers.
 
 ### [kommunity.com](https://kommunity.com)
 
@@ -176,14 +196,6 @@ And is taking an interesting alternative approach to the layout of information (
 
 Sports focused alternative, with membership subscription options (like gym?) - I do not know, might need more info.
 
-### [emamo.com](https://emamo.com)
-
-Looks pretty, and is focus more on a platform for large event / conference organizer, with established consumer. Rather then a platform for consumers.
-
-### [confy.app](https://confy.app/)
-
-Brazilian newcomer focused on fests, confs, meetups and fairs (as themselves are saying). With several existing meetup groups.
-The platform is focused on the brazilian market (for now), and looks good.
 
 ---
 
@@ -192,7 +204,6 @@ The platform is focused on the brazilian market (for now), and looks good.
 > New, Shiny, unknowns. Have to wait and see.
 
 - [Cete](https://cete.io/)
-- [Eventy](https://eventy.io/)
 
 ---
 
