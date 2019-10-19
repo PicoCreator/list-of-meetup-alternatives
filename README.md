@@ -209,10 +209,15 @@ The platform is focused on the brazilian market (for now), and looks good.
 
 ## Clarification Notes (aka disclaimer)
 
-Note that this is a my biased ordered list, based on very roughly on my review of their working online demo (if any).
+> This is a biased ordered list, based on very roughly on my review of features their working online demo (if any).
 or the limited information I could find. However because it is based on the limited information, it does not mean
 any solution is better then the other, without a much deeper extensive comparision. Which might be impossible in some cases
 as they may be tackling different sub-problems/features of organizing a meetup.
+> 
+> Example of things not tested, specs requirements, or page load speed, or ease of setup.
+>
+> As with any product, do try to research more extensively on multiple competing options, and test according to your specific use case.
+> (if you find any outside this list, please do a pull request).
 
 ---
 
