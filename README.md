@@ -140,6 +140,16 @@ The downside is that it limits searchability of event attendees. I need to know 
 
 That being said - it is facebook, the largest platform there is. So pros, and cons.
 
+### Linkedin
+
+New to the party. Possibly limited in the same way facebook is. With less noise (food pictures) to signal (upcoming event) ratio for your target audience in their linkedin feed.
+
+Will need to wait and see how succesful or commonly used it will be.
+
+Personally this could work really well if your event target a "professional" audience, who are already active on linkedin. However this is very industry specific. Some industries hate linkedin, some love it, some never used it. So YMMV.
+
+See [article](https://techcrunch.com/2019/10/15/linkedin-gets-physical-debuts-new-events-hub-for-people-to-plan-in-person-networking-events/) for details.
+
 ### GitHub
 
 While an un-orthodox alternative, this does tap on to a large existing developer focus community space.
