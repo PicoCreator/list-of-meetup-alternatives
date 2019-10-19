@@ -1,6 +1,6 @@
 # list-of-meetup-alternatives
 
-Compiling a list of meetup alternatives, and possible replacement technologies. PR is welcomed.
+Compiling a list of meetup alternatives, and possible replacement technologies. PR is welcomed. 
 
 ---
 
@@ -31,7 +31,7 @@ More importantly its the only project to recognize the need for federation of ev
 
 [GIT frontend](https://github.com/fossasia/open-event-frontend) - [GIT backend](https://github.com/fossasia/open-event-server) - [LIVE](https://eventyay.com/)
 
-- **groups:** no
+- **groups:** no 
 - **event search:** yes
 
 FossAsia (great folks) very own event organization platform, while it lack "groups" and subscription to groups.
@@ -73,6 +73,17 @@ From then each group has full functionality, to organize events, and subscribe t
 [GIT](https://github.com/null-open-security-community/swachalit) - [LIVE](https://null.co.in/)
 
 Simliar to on_ruby, where it may work strongly for a small collection of groups. With extensive feature within a group.
+
+## Open Source Solutions (no live demo / example)
+
+### Keystone Meetup Alternative
+
+[GIT](https://github.com/Thinkmill/meetup-alternative) (see repo on how to self-host)
+
+**groups:** no (designed for a single self-hosted group)
+**event search:** yes
+
+Meetup alternative built with JavaScript. Using Next.js and Keystone 5.
 
 ---
 
@@ -193,6 +204,15 @@ The platform is focused on the brazilian market (for now), and looks good.
 
 - [Cete](https://cete.io/)
 - [Eventy](https://eventy.io/)
+
+---
+
+## Clarification Notes (aka disclaimer)
+
+Note that this is a my biased ordered list, based on very roughly on my review of their working online demo (if any).
+or the limited information I could find. However because it is based on the limited information, it does not mean
+any solution is better then the other, without a much deeper extensive comparision. Which might be impossible in some cases
+as they may be tackling different sub-problems/features of organizing a meetup.
 
 ---
 
