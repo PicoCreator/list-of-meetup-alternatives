@@ -48,7 +48,7 @@ While the groups and event search is rather limited. Several additional function
 
 ### Mobilizon
 
-[GIT](https://framagit.org/framasoft/mobilizon/) - [DEMO](https://test.mobilizon.org/events/f2fd4a0c-64c2-46a4-bc47-b61c087234de)
+[GIT](https://framagit.org/framasoft/mobilizon/) - [DEMO](https://test.mobilizon.org)
 
 - **groups:** yes, with basic tag search
 - **event search:** yes, with location, and keywords
